@@ -9,6 +9,8 @@
   <a href="https://github.com/ceh-teams/ceh-releases/releases/latest"><strong>⬇️ Descargar la última versión</strong></a>
   &nbsp;·&nbsp;
   <a href="https://github.com/ceh-teams/ceh-releases#readme">Qué hace y cómo empezar</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/ceh-teams/ceh-manual#readme">📖 Manual</a>
 </p>
 
 <p align="center">
@@ -26,13 +28,14 @@
 
 ## Instalación
 
-Instaladores para macOS, Windows y Linux (`.pkg`, `.msi`, `.deb`, `.rpm`) en la [página de descargas](https://github.com/ceh-teams/ceh-releases/releases/latest). Las actualizaciones están firmadas y se verifican antes de instalarse.
+Instaladores para macOS, Windows y Linux (`.pkg`, `.msi`, `.deb`, `.rpm`) en la [página de descargas](https://github.com/ceh-teams/ceh-releases/releases/latest). Paso a paso en el [manual de instalación](https://github.com/ceh-teams/ceh-manual/blob/main/instalacion/01-instalacion.md), también [en la nube de Amazon (AWS)](https://github.com/ceh-teams/ceh-manual/blob/main/instalacion/03-aws.md). Las actualizaciones están firmadas y se verifican antes de instalarse.
 
 ## Repositorios
 
 | Repositorio | Contenido |
 |---|---|
 | [ceh-releases](https://github.com/ceh-teams/ceh-releases) | Descargas, capturas y manifiesto firmado de actualizaciones |
+| [ceh-manual](https://github.com/ceh-teams/ceh-manual) | Manual de instalación y de usuario |
 
 ## Descargo de responsabilidad
 
